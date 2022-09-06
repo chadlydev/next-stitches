@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@app/*": ["app/*"],
+      "@tokens": ["app/tokens"],
+      "@utils": ["app/utils"]
+    }
+  }
+}
